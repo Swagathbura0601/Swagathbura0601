@@ -24,6 +24,8 @@ I'm Swagathbura, a Digital Forensic Science student passionate about Cybersecuri
 - Introduction to Cybersecurity - Cisco Networking Academy 🎓
 - Offensive Security Pathway - Udemy 🎓
 - Cyber Threat Management - Cisco Networking Academy 🎓
+- Introduction to Splunk - Splunk 🎓
+- IBM QRadar SIEM Foundation - IBM 🎓
 
 
 **HOBBIES:**

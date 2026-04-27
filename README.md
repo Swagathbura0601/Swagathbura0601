@@ -37,7 +37,7 @@ I'm Swagathbura, a Digital Forensic Science student passionate about Cybersecuri
 
 **PROJECTS:**
 - **Major Project on Privacy vs Evidence:** " A Behavioral and Digital Forensic Analysis of Sanchar Saathi Mobile Application."
-  View Project -  https://github.com/Swagathbura0601/Analysis-of-Sanchar-Saathi-Mobile-Application
+  View Project - https://github.com/Swagathbura0601/Cyber-Security---Research/tree/main/2026/Sanchar%20Saathi%20Application
 - **Minor Project with Clues Team Hyderabad:** “Exploring the role of evidence in crime scene investigation” in collaboration with CLUES Team, Hyderabad City Police.
 
 

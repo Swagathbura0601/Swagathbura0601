@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm Swagathbura, a Digital Forensic Science student passionate about Cybersecurity, Ethical Hacking, and Digital Investigations. 🕵️‍♂️💻
+I'm Swagathbura, a Digital Forensic Science student passionate about Cybersecurity (SOC, SIEM), Ethical Hacking, and Digital Investigations. 🕵️‍♂️💻
 
 **SKILLS:**
 - **Digital Forensics Tools:** Magnet AXIOM, CAINE, Oxygen Forensic Tool, UFED, FTK, Autopsy, Network Miner, OS Forensics 🧰

@@ -4,7 +4,7 @@ I'm Swagathbura, a Digital Forensic Science student passionate about Cybersecuri
 
 **SKILLS:**
 - **Digital Forensics Tools:** Magnet AXIOM, CAINE, Oxygen Forensic Tool, UFED, FTK, Autopsy, Network Miner, OS Forensics 🧰
-- **Cybersecurity & Networking:** Burpsuite, Wireshark, Kali Linux, Network Traffic Analysis, Odin, MobSF, Frida, APKTool 🌐
+- **Cybersecurity & Networking:** Burpsuite, Wireshark, SIEM Tools, Kali Linux, Network Traffic Analysis, Odin, MobSF, Frida, APKTool 🌐
 - **Database & Analysis:** MySQL, JADX, Cursor IDE, Logcat, Dumpsys 🗄️
 - **Programming Languages:** Python, C, Java, SQL, HTML, CSS 💻
 - **Operating Systems:** Windows, Linux (Kali, Ubuntu) 🖥️
